@@ -14,7 +14,7 @@
     "cors": "^2.8.4",
     "express": "^4.16.3",
     "jsonwebtoken": "^8.3.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.20",
     "mongoose": "^5.11.9",
     "nodemailer": "^6.3.0",
     "passport": "^0.4.0",
