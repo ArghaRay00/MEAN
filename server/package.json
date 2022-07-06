@@ -17,7 +17,7 @@
     "lodash": "^4.17.20",
     "mongoose": "^5.11.9",
     "nodemailer": "^6.3.0",
-    "passport": "^0.4.0",
+    "passport": "^0.6.0",
     "passport-local": "^1.0.0"
   }
 }
