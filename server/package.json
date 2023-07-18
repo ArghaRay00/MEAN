@@ -15,7 +15,7 @@
     "express": "^4.16.3",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.20",
-    "mongoose": "^5.11.9",
+    "mongoose": "^5.13.20",
     "nodemailer": "^6.3.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0"
